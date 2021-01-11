@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RoomBasicDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addWord">添加单词</string>
+    <string name="english">English Word</string>
+    <string name="chinese">中文释义</string>
+    <string name="instertWord">添加单词</string>
+    <string name="clearData">清空数据</string>
+    <string name="switchView">切换试图</string>
+    <string name="search">Search</string>
+    <string name="words">words</string>
+    <string name="clearDataTitle">清空数据</string>
+    <string name="add">add</string>
+</resources>
